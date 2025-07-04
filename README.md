@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-gdks.co.uk-blue?style=for-the-badge&logo=google-chrome)](https://www.gdks.co.uk/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/⚡_GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/⚡_GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/gdks)
 
 </div>
 
@@ -72,7 +72,7 @@ I'm always interested in discussing technology, engineering leadership, and exci
 
 [![Website](https://img.shields.io/badge/🌐_Visit_My_Website-gdks.co.uk-blue?style=for-the-badge)](https://www.gdks.co.uk/)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/⚡_Follow_on_GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/⚡_Follow_on_GitHub-black?style=for-the-badge&logo=github)](https://github.com/gdks)
 
 ---
 
