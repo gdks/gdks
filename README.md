@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/your-username/your-repo/main/assets/header.png)](https://www.gdks.co.uk/)
-
 <div align="center">
   
 # 👋 Hello, I'm a Software Engineer & Engineering Manager!
