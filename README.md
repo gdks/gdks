@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+![Banner](banner.jpg)
+
 # 👋 Hello, I'm a Software Engineer & Engineering Manager!
 
 *Passionate about building great software and leading amazing teams* 🚀
