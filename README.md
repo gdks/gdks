@@ -58,10 +58,6 @@
 - 📱 **Modern Web Technologies**: Exploring the latest frameworks and tools
 - 🧠 **Engineering Leadership**: Growing high-performing engineering teams
 
-## 💡 Personal Philosophy
-
-*"Great software is built by great teams. My role is to empower people to do their best work while delivering exceptional value to users."*
-
 ---
 
 <div align="center">
