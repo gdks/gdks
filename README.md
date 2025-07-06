@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+![Edinburgh Header](assets/edinburgh.png)
+
 # 👋 Hello, I'm a Software Engineer & Engineering Manager!
 
 *Passionate about building great software and leading amazing teams* 🚀
